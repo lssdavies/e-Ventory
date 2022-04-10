@@ -6,8 +6,8 @@
 
 e-Ventory is a fully functional back-end powered by Mysql2 and the ORM Sequelize. It is a simple inventory management back end that all user to perform CRUD operations on their inventory db.
 
-[Walk Through Video](https://drive.google.com/file/d/1qQO1YRYUr3xBoOvkvOw483eYPxT96FDD/view)
-[Github Repo](https://github.com/lssdavies/e-Ventory)
+- [Walk Through Video](https://drive.google.com/file/d/1qQO1YRYUr3xBoOvkvOw483eYPxT96FDD/view)
+- [Github Repo](https://github.com/lssdavies/e-Ventory)
 
 ## Technologies Used
 
